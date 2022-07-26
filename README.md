@@ -44,7 +44,7 @@ The dataset contains 1000 observations and 20 variables, representing customer d
 | Missing Values?                      |  N/A                       | 
 | Area                                 |  Financial                 | 
 | Date Donated                         |  1994-11-17                | 
-| Number of Web Hits                   |  1994-11-17                | 
+| Number of Web Hits                   |  820720                    | 
 
 
 All complementary information regarding the dataset can be found in this repository in the documents folder.
@@ -65,3 +65,12 @@ All complementary information regarding the dataset can be found in this reposit
 - [x] **Step 06:** **Convert Model Performance to Business Values**:
 
 - [x] **Step 07:**  **Deploy Modelo to Production**:
+
+***
+Made By **Camila D'Angelo**
+
+- 🔭 I’m currently working on [DS Comuity](https://www.comunidadedatascience.com/) and [Data Science Academy](https://www.datascienceacademy.com.br/bundle/formacao-cientista-de-dados)
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me: 
+[LinkeldIn](https://www.linkedin.com/in/camiladangelotempesta/)
+***
