@@ -44,7 +44,7 @@ The dataset contains 1000 observations and 20 variables, representing customer d
 | Missing Values?                      |  N/A                       | 
 | Area                                 |  Financial                 | 
 | Date Donated                         |  1994-11-17                | 
-| Number of Web Hits                   |  1994-11-17                | 
+| Number of Web Hits                   |  820720                    | 
 
 
 All complementary information regarding the dataset can be found in this repository in the documents folder.
