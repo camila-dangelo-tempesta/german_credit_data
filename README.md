@@ -2,6 +2,11 @@
 
 ## Credit Risk Assessment
 
+<div align="center">
+<p float="left">
+    <img src="/images/card.jpg" width="600" height="500"/>
+</p>
+</div>
 ***
 ## 1. BUSINESS PROBLEMS
 
