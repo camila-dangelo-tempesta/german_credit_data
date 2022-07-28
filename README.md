@@ -120,7 +120,7 @@ The summary below shows the metrics comparison after running the models
 
 <div align="center">
 <p float="left">
-    <img src="/images/score/random.png" width="700" height="500"/>
+    <img src="/images/score/random.png" width="700" height="250"/>
 </p>
 </div>
 
