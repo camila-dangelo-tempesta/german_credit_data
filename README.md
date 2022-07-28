@@ -116,9 +116,10 @@ The summary below shows the metrics comparison after running the models
 
 The summary below shows the metrics after running the models in R
 
-|                                    | Accuracy | Error     |
-|------------------------------------|:--------:|:---------:|
-| Random Forest                      | 0.85     | 24.77%    |
+|                                    | Classification (Good) | Classification (Bad) | Accuracy | Precision |
+|------------------------------------|:---------------------:|:--------------------:|:--------:|:---------:|
+| Good Credit                        | 217                   | 89                   | 0.7507692| 0.7482759 |
+| Bad Credit                         | 73                    | 271                  | 0.7091503| 0.4850895 |
 
 <div align="center">
 <p float="left">
