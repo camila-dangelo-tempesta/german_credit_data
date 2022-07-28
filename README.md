@@ -71,7 +71,6 @@ All complementary information regarding the dataset can be found in this reposit
 
 Classification tests were done using different algorithms with Microsoft Azure Machile Learning:
 
-
   - Two-Class Bayes Point Machine
   - Two-Class Neural Network
   - Two-Class Support Vector Machine
@@ -81,6 +80,33 @@ Classification tests were done using different algorithms with Microsoft Azure M
     <img src="/images/mind_map.png" width="600" height="500"/>
 </p>
 </div>
+
+## 6. Machine Learning Modelo Performance
+
+The summary below shows the metrics comparison after running the models
+
+|                                    | Accuracy | Precision | Recall | F1 Score | **AUC**   | 
+|------------------------------------|:--------:|:---------:|:------:|:--------:|:---------:|
+| Two-Class Bayes Point Machine      | 0.753    | 0.531     | 0.741  | 0.619    | **0.825** |
+| Two-Class Neural Network           | 0.657    | 0.440     | 1.000  | 0.611    | **0.960** |
+| Two-Class Support Vector Machine   | 0.710    | 0.467     | 0.519  | 0.491    | **0.741** |
+
+**Two-Class Bayes Point Machine vs Two-Class Neural Network**
+
+<div align="center">
+<p float="left">
+    <img src="/images/1_vs_2.png" width="600" height="500"/>
+</p>
+</div>
+
+**Two-Class Neural Network vs Two-Class Support Vector Machine** 
+
+<div align="center">
+<p float="left">
+    <img src="/images/2_vs_3.png" width="600" height="500"/>
+</p>
+</div>
+
 ***
 
 Made By **Camila D'Angelo**
