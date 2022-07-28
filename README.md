@@ -116,7 +116,7 @@ The summary below shows the metrics comparison after running the models
 
 The summary below shows the metrics after running the models in R
 
-|                                    | Classification (Good) | Classification (Bad) | Accuracy | Precision |
+|  **Random Forest**                 | Classification (Good) | Classification (Bad) | Accuracy | Precision |
 |------------------------------------|:---------------------:|:--------------------:|:--------:|:---------:|
 | Good Credit                        | 217                   | 89                   | 0.7507692| 0.7482759 |
 | Bad Credit                         | 73                    | 271                  | 0.7091503| 0.4850895 |
@@ -127,6 +127,18 @@ The summary below shows the metrics after running the models in R
 </p>
 </div>
 
+* Optimizing the Predictive model: **Weighted RandomForest Model**
+     
+The summary below shows the metrics after running the models in R
+
+| **Weighted RandomForest Model**    | Classification (Good) | Classification (Bad)  | Accuracy | Precision |
+|------------------------------------|:---------------------:|:---------------------:|:--------:|:---------:|
+| Good Credit                        | 176                   | 130                   | 0.6861538| 0.7040000 |
+| Bad Credit                         | 74                    | 270                   | 0.5751634| 0.3811966 |
+
+
+As can be seen after Optimizing the model with the Weighted Random Forest Technique, the model's accuracy was lower than the previous model.
+With that, we discard the optimization.
 
 ***
 
