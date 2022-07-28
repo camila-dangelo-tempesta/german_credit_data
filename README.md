@@ -94,6 +94,7 @@ The summary below shows the metrics comparison after running the models
 | Two-Class Neural Network           | 0.657    | 0.440     | 1.000  | 0.611    | **0.960** |
 | Two-Class Support Vector Machine   | 0.710    | 0.467     | 0.519  | 0.491    | **0.741** |
 
+
 **Two-Class Bayes Point Machine vs Two-Class Neural Network**
 
 <div align="center">
@@ -113,14 +114,15 @@ The summary below shows the metrics comparison after running the models
 
 ### 6.2 R Language
 
+The summary below shows the metrics after running the models in R
+
 |                                    | Accuracy | Error     |
 |------------------------------------|:--------:|:---------:|
 | Random Forest                      | 0.85     | 24.77%    |
 
-
 <div align="center">
 <p float="left">
-    <img src="/images/score/random.png" width="700" height="250"/>
+    <img src="/images/score/random.png" width="700" height="500"/>
 </p>
 </div>
 
