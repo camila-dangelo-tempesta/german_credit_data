@@ -77,7 +77,7 @@ Classification tests were done using different algorithms with Microsoft Azure M
 
 <div align="center">
 <p float="left">
-    <img src="/images/mind_map.png" width="600" height="500"/>
+    <img src="/images/mind_map.png" width="700" height="500"/>
 </p>
 </div>
 
@@ -95,7 +95,7 @@ The summary below shows the metrics comparison after running the models
 
 <div align="center">
 <p float="left">
-    <img src="/images/1_vs_2.png" width="600" height="500"/>
+    <img src="/images/score/1_vs_2.png" width="700" height="500"/>
 </p>
 </div>
 
@@ -103,7 +103,7 @@ The summary below shows the metrics comparison after running the models
 
 <div align="center">
 <p float="left">
-    <img src="/images/2_vs_3.png" width="600" height="500"/>
+    <img src="/images/score/2_vs_3.png" width="700" height="500"/>
 </p>
 </div>
 
