@@ -83,6 +83,9 @@ Classification tests were done using different algorithms with Microsoft Azure M
 
 ## 6. Machine Learning Modelo Performance
 
+
+### 6.1 Microsoft Azure Machine Learning
+
 The summary below shows the metrics comparison after running the models
 
 |                                    | Accuracy | Precision | Recall | F1 Score | **AUC**   | 
@@ -106,6 +109,21 @@ The summary below shows the metrics comparison after running the models
     <img src="/images/score/2_vs_3.png" width="700" height="500"/>
 </p>
 </div>
+
+
+### 6.2 R Language
+
+|                                    | Accuracy | Error     |
+|------------------------------------|:--------:|:---------:|
+| Random Forest                      | 0.85     | 24.77%    |
+
+
+<div align="center">
+<p float="left">
+    <img src="/images/score/random.png" width="700" height="500"/>
+</p>
+</div>
+
 
 ***
 
