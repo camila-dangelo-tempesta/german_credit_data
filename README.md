@@ -67,6 +67,22 @@ All complementary information regarding the dataset can be found in this reposit
 - [x] **Step 07:**  **Deploy Modelo to Production**:
 
 ***
+## 5. Machine Learning Model Applied
+
+Classification tests were done using different algorithms with Microsoft Azure Machile Learning:
+
+
+  - Two-Class Bayes Point Machine
+  - Two-Class Neural Network
+  - Two-Class Support Vector Machine
+
+<div align="center">
+<p float="left">
+    <img src="/images/mind_map.png" width="600" height="500"/>
+</p>
+</div>
+***
+
 Made By **Camila D'Angelo**
 
 - 🔭 I’m currently working on [DS Comuity](https://www.comunidadedatascience.com/) and [Data Science Academy](https://www.datascienceacademy.com.br/bundle/formacao-cientista-de-dados)
